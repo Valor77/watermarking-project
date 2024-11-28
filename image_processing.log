@@ -1,0 +1,30 @@
+ERROR:root:Failed to process IMG_3946.JPG: cannot write mode RGBA as JPEG
+ERROR:root:Failed to process IMG_2444.JPG: cannot write mode RGBA as JPEG
+ERROR:root:Failed to process IMG_2443.JPG: cannot write mode RGBA as JPEG
+ERROR:root:Failed to process IMG_3951.JPG: cannot write mode RGBA as JPEG
+ERROR:root:Failed to process IMG_3953.JPG: cannot write mode RGBA as JPEG
+INFO:root:Successfully processed IMG_3946.JPG
+INFO:root:Successfully processed IMG_2443.JPG
+INFO:root:Successfully processed IMG_3951.JPG
+INFO:root:Successfully processed IMG_2444.JPG
+INFO:root:Successfully processed IMG_3953.JPG
+INFO:root:Successfully processed IMG_3946.JPG
+INFO:root:Successfully processed IMG_2443.JPG
+INFO:root:Successfully processed IMG_2444.JPG
+INFO:root:Successfully processed IMG_3951.JPG
+INFO:root:Successfully processed IMG_3953.JPG
+INFO:root:Successfully processed IMG_3946.JPG
+INFO:root:Successfully processed IMG_3951.JPG
+INFO:root:Successfully processed IMG_2443.JPG
+INFO:root:Successfully processed IMG_2444.JPG
+INFO:root:Successfully processed IMG_3953.JPG
+INFO:root:Successfully processed IMG_3946.JPG
+INFO:root:Successfully processed IMG_3951.JPG
+INFO:root:Successfully processed IMG_2444.JPG
+INFO:root:Successfully processed IMG_2443.JPG
+INFO:root:Successfully processed IMG_3953.JPG
+INFO:root:Successfully processed IMG_3946.JPG
+INFO:root:Successfully processed IMG_2443.JPG
+INFO:root:Successfully processed IMG_3951.JPG
+INFO:root:Successfully processed IMG_2444.JPG
+INFO:root:Successfully processed IMG_3953.JPG
