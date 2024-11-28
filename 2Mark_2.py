@@ -41,8 +41,8 @@ def add_watermarks_and_text(base_image_path, watermark1_path, watermark2_path, o
     base_image.paste(watermark2, watermark2_position, watermark2)
 
     # Add the text to the image
-    # print(help(draw.text))
-    # draw.text(text_position, text, font=font, fill=text_color)
+    #print(help(draw.text))
+    #draw.text(text_position, text, font=font, fill=text_color)
 
     # Save the final image to the output directory
     output_path = os.path.join(output_dir, os.path.basename(base_image_path))
